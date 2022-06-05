@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rckw
 - 👀 I’m interested in knowledge
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning deep learning and AI
+- 💞️ I’m looking to collaborate on helping others
 - 📫 How to reach me ...
 
 <!---
