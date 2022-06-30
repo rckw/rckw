@@ -1,0 +1,186 @@
+CBSS board;Type;Board Circuit;Fuse;Pinname;Description / Pin number;SmartShed;CBSS;Comment
+-;Type;Name;Fuse;Pinname;Description / Pin number;CBSS;-;-
+-;-;PX-quad  inputs;-;-;-;-;-;-
+-;IN_PX8V_00;PX00;-;-;PX ingang en 8V;PX_SHD1-4;-;-
+x;-;-;-;PX00;P1-2D;-;PX_SHD1;-
+x;-;-;U5 (F1);PX00_8V;P1-2F;-;PX_SHD1-4_8V;-
+-;IN_PX8V_01;PX01;-;-;PX ingang;PX_SHD1-4;-;-
+x;-;-;-;PX01;P1-2B;-;PX_SHD2;-
+-;IN_PX8V_01;PX02;-;-;PX ingang;PX_SHD1-4;-;-
+x;-;-;-;PX02;P1-2Z;-;PX_SHD3;-
+-;IN_PX8V_01;PX03;-;-;PX ingang;PX_SHD1-4;-;-
+x;-;-;-;PX03;P1-4F;-;PX_SHD4;-
+-;IN_PX8V_00;PX04;-;-;PX ingang en 8V;PX_SHD5-8;-;-
+x;-;-;-;PX04;P1-4B;-;PX_SHD5;-
+x;-;-;U15 (F1);PX04_8V;P1-4D;-;PX_SHD5-8_8V;-
+-;IN_PX8V_01;PX05;-;-;PX ingang;PX_SHD5-8;-;-
+x;-;-;-;PX05;P1-4Z;-;PX_SHD6;-
+-;IN_PX8V_01;PX06;-;-;PX ingang;PX_SHD5-8;-;-
+x;-;-;-;PX06;P1-6F;-;PX_SHD7;-
+-;IN_PX8V_01;PX07;-;-;PX ingang;PX_SHD5-8;-;-
+x;-;-;-;PX07;P1-6D;-;PX_SHD8;-
+-;IN_PX8V_00;PX08;-;-;PX ingang en 8V;PX_SHD9-12;-;-
+x;-;-;-;PX08;P1-6Z;-;PX_SHD9;-
+x;-;-;U17 (F1);PX08_8V;P1-6B;-;PX_SHD9-12_8V;-
+-;IN_PX8V_01;PX09;-;-;PX ingang;PX_SHD9-12;-;-
+x;-;-;-;PX09;P1-8F;-;PX_SHD10;-
+-;IN_PX8V_01;PX10;-;-;PX ingang;PX_SHD9-12;-;-
+x;-;-;-;PX10;P1-8D;-;PX_SHD11;-
+-;IN_PX8V_01;PX11;-;-;PX ingang;PX_SHD9-12;-;-
+x;-;-;-;PX11;P1-8B;-;PX_SHD12;-
+-;IN_PX8V_00;PX12;-;-;PX ingang en 8V;PX_SHD13-16;-;-
+x;-;-;-;PX12;P1-10F;-;PX_SHD13;-
+x;-;-;U18 (F1);PX12_8V;P1-8Z;-;PX_SHD13-16_8V;-
+-;IN_PX8V_01;PX13;-;-;PX ingang;PX_SHD13-16;-;-
+x;-;-;-;PX13;P1-10D;-;PX_SHD14;-
+-;IN_PX8V_01;PX14;-;-;PX ingang;PX_SHD13-16;-;-
+x;-;-;-;PX14;P1-10B;-;PX_SHD15;-
+-;IN_PX8V_01;PX15;-;-;PX ingang;PX_SHD13-16;-;-
+x;-;-;-;PX15;P1-10Z;-;PX_SHD16;-
+-;-;-;-;-;-;-;-;-
+-;-;PX;-;-;-;-;-;-
+-;IN_PX8V_00;PX_16;-;-;PX ingang en 8V;PX_SHD_LU;-;-
+x;-;-;-;PX_16;P1-12D;-;PX_SHD_LU;-
+x;-;-;U19 (F1);PX_16_8V;P1-12F;-;PX_SHD_LU_8V;-
+-;IN_PX8V_00;PX_17;-;-;PX ingang en 8V;spare;-;-
+x;-;-;-;PX_17;P1-12Z;-;nc;-
+x;-;-;U19 (F1);PX_17_8V;P1-12B;-;nc;-
+-;IN_PX8V_00;PX_18;-;-;PX ingang en 8V;PX_LVL_ON;-;= PX1
+x;-;-;-;PX_18;P1-14D;-;PX_LVL_ON;-
+x;-;-;U74 (F1);PX_18_8V;P1-14F;-;PX_LVL_ON_8V;-
+-;IN_PX8V_00;PX_19;-;-;PX ingang en 8V;PX_LVL_OFF;-;=PX2
+x;-;-;-;PX_19;P1-14Z;-;PX_LVL_OFF;-
+x;-;-;U74 (F1);PX_19_8V;P1-14B;-;PX_LVL_OFF_8V;-
+-;IN_PX8V_00;PX_20;-;-;PX ingang en 8V;PX_STRK_ON;-;= PX1
+x;-;-;-;PX_20;P1-16D;-;PX_STRK_ON;-
+x;-;-;U74 (F1);PX_20_8V;P1-16F;-;PX_STRK_ON_8V;-
+-;IN_PX8V_00;PX_21;-;-;PX ingang en 8V;PX_STRK_OFF;-;=PX2
+x;-;-;-;PX_21;P1-16Z;-;PX_STRK_OFF;-
+x;-;-;U74 (F1);PX_21_8V;P1-16B;-;PX_STRK_OFF_8V;-
+-;-;-;-;-;-;-;-;-
+-;-;DTTH;-;-;-;-;-;-
+-;DTTH_555_00;DTTH00;-;-;NTC ingang ;spare;-;-
+x;-;-;-;DTTH00+;P1-18F;-;nc;-
+x;-;-;-;DTTH00-;P1-18D;-;nc;-
+-;DTTH_555_00;DTTH01;-;-;NTC ingang ;DTTH_CBSHD;-;-
+x;-;-;-;DTTH01+;P1-20F;-;DTTH_CBSHD+;-
+x;-;-;-;DTTH01-;P1-20D;-;DTTH_CBSHD-;-
+-;-;-;-;-;-;-;-;-
+-;-;General purpose power out;-;-;-;-;-;-
+-;OUT_BTF6070_00;PWR_OUT00;F1;-;26V power uitgang en massa;INRUSH;-;-
+x;-;-;-;PWR_OUT00;P1-22D;-;INRUSH;-
+x;-;-;-;PWR_OUT00_GND;P1-22F;-;INRUSH_GND;-
+-;OUT_BTF6070_00;PWR_OUT01;F1;-;26V power uitgang en massa;FAN_LU1;-;SmartShed version with FAN without speed control
+x;-;-;-;PWR_OUT01;P1-22B;-;FAN_LU1;-
+x;-;-;-;PWR_OUT01_GND;P1-22Z;-;FAN_LU1_GND;-
+-;OUT_BTF6070_00;PWR_OUT02;F1;-;26V power uitgang en massa;spare;-;-
+x;-;-;-;PWR_OUT02;P1-24D;-;nc;-
+x;-;-;-;PWR_OUT02_GND;P1-24F;-;nc;-
+-;OUT_BTF6070_00;PWR_OUT03;F1;-;26V power uitgang en massa;FAN_LU2;-;SmartShed version with FAN without speed control
+x;-;-;-;PWR_OUT03;P1-24B;-;FAN_LU2;-
+x;-;-;-;PWR_OUT03_GND;P1-24Z;-;FAN_LU2_GND;-
+-;OUT_BTF6070_00;PWR_OUT04;F1;-;26V power uitgang en massa;spare;-;-
+x;-;-;-;PWR_OUT04;P1-26D;-;nc;-
+x;-;-;-;PWR_OUT04_GND;P1-26F;-;nc;-
+-;OUT_BTF6070_00;PWR_OUT05;F1;-;26V power uitgang en massa;spare;-;-
+x;-;-;-;PWR_OUT05;P1-26B;-;nc;-
+x;-;-;-;PWR_OUT05_GND;P1-26Z;-;nc;-
+-;OUT_BTF6070_00;PWR_OUT06;F1;-;26V power uitgang en massa;VLVL;-;-
+x;-;-;-;PWR_OUT06;P1-28D;-;VLVL;-
+x;-;-;-;PWR_OUT06_GND;P1-28F;-;VLVL_GND;-
+-;OUT_BTF6070_00;PWR_OUT07;F1;-;26V power uitgang en massa;VSTRK;-;-
+x;-;-;-;PWR_OUT07;P1-28B;-;VSTRK;-
+x;-;-;-;PWR_OUT07_GND;P1-28Z;-;VSTRK_GND;-
+-;-;-;-;-;-;-;-;-
+-;-;General purpose power out from SUP_IN;-;-;-;-;-;-
+-;OUT_BTF6070_00;PWR_OUT08;F3;-;26V power uitgang en massa;FAN_CBSHD1;-;-
+x;-;-;-;PWR_OUT08;P3-22D;-;FAN_CBSHD1;-
+x;-;-;-;PWR_OUT08_GND;P3-22F;-;FAN_CBSHD1_GND;-
+-;OUT_BTF6070_00;PWR_OUT09;F3;-;26V power uitgang en massa;FAN_CBSHD2;-;-
+x;-;-;-;PWR_OUT09;P3-22B;-;FAN_CBSHD2;-
+x;-;-;-;PWR_OUT09_GND;P3-22Z;-;FAN_CBSHD2_GND;-
+-;OUT_BTF6070_00;PWR_OUT10;F3;-;26V power uitgang en massa;FAN_CBSHD3;-;-
+x;-;-;-;PWR_OUT10;P3-24D;-;FAN_CBSHD3;-
+x;-;-;-;PWR_OUT10_GND;P3-24F;-;FAN_CBSHD3_GND;-
+-;OUT_BTF6070_00;PWR_OUT11;F3;-;26V power uitgang en massa;FAN_CBSHD4;-;-
+x;-;-;-;PWR_OUT11;P3-24B;-;FAN_CBSHD4;-
+x;-;-;-;PWR_OUT11_GND;P3-24Z;-;FAN_CBSHD4_GND;-
+-;OUT_BTF6070_00;PWR_OUT12;F3;-;26V power uitgang en massa;spare;-;-
+x;-;-;-;PWR_OUT12;P3-26D;-;nc;-
+x;-;-;-;PWR_OUT12_GND;P3-26F;-;nc;-
+-;OUT_BTF6070_00;PWR_OUT13;F3;-;26V power uitgang en massa;spare;-;-
+x;-;-;-;PWR_OUT13;P3-26B;-;nc;-
+x;-;-;-;PWR_OUT13_GND;P3-26Z;-;nc;-
+-;-;-;-;-;-;-;-;-
+-;-;General purpose digital out;-;-;-;-;-;-
+-;OUT_PNP_00;OUT00;F2;-;uitgang pnp;PX_SHD1;-;-
+x;-;-;-;OUT00;P3-2F;-;PX_SHD2;-
+-;OUT_PNP_00;OUT01;F2;-;uitgang pnp;PX_SHD2;-;-
+x;-;-;-;OUT01;P3-2D;-;PX_SHD2;-
+-;OUT_PNP_00;OUT02;F2;-;uitgang pnp;PX_SHD3;-;-
+x;-;-;-;OUT02;P3-2B;-;PX_SHD3;-
+-;OUT_PNP_00;OUT03;F2;-;uitgang pnp;PX_SHD4;-;-
+x;-;-;-;OUT03;P3-2Z;-;PX_SHD4;-
+-;OUT_PNP_00;OUT04;F2;-;uitgang pnp;PX_SHD5;-;-
+x;-;-;-;OUT04;P3-4F;-;PX_SHD5;-
+-;OUT_PNP_00;OUT05;F2;-;uitgang pnp;PX_SHD6;-;-
+x;-;-;-;OUT05;P3-4D;-;PX_SHD6;-
+-;OUT_PNP_00;OUT06;F2;-;uitgang pnp;PX_SHD7;-;-
+x;-;-;-;OUT06;P3-4B;-;PX_SHD7;-
+-;OUT_PNP_00;OUT07;F2;-;uitgang pnp;PX_SHD8;-;-
+x;-;-;-;OUT07;P3-4Z;-;PX_SHD8;-
+-;OUT_PNP_00;OUT08;F2;-;uitgang pnp;PX_SHD9;-;-
+x;-;-;-;OUT08;P3-6F;-;PX_SHD9;-
+-;OUT_PNP_00;OUT09;F2;-;uitgang pnp;PX_SHD10;-;-
+x;-;-;-;OUT09;P3-6D;-;PX_SHD10;-
+-;OUT_PNP_00;OUT10;F2;-;uitgang pnp;PX_SHD11;-;-
+x;-;-;-;OUT10;P3-6B;-;PX_SHD11;-
+-;OUT_PNP_00;OUT11;F2;-;uitgang pnp;PX_SHD12;-;-
+x;-;-;-;OUT11;P3-6Z;-;PX_SHD12;-
+-;OUT_PNP_00;OUT12;F2;-;uitgang pnp;PX_SHD13;-;-
+x;-;-;-;OUT12;P3-8F;-;PX_SHD13;-
+-;OUT_PNP_00;OUT13;F2;-;uitgang pnp;PX_SHD14;-;-
+x;-;-;-;OUT13;P3-8D;-;PX_SHD14;-
+-;OUT_PNP_00;OUT14;F2;-;uitgang pnp;PX_SHD15;-;-
+x;-;-;-;OUT14;P3-8B;-;PX_SHD15;-
+-;OUT_PNP_00;OUT15;F2;-;uitgang pnp;PX_SHD16;-;-
+x;-;-;-;OUT15;P3-8Z;-;PX_SHD16;-
+-;OUT_PNP_G_00;OUT16;F2;-;uitgang pnp en massa;FAN_LU1;-;SmartShed version with FAN without speed control
+x;-;-;-;OUT16;P1-18B;-;FAN_LU1_DIR;-
+x;-;-;-;OUT16_GND;P1-18Z;-;nc;-
+-;OUT_PNP_G_00;OUT17;F2;-;uitgang pnp en massa;FAN_LU2;-;SmartShed version with FAN without speed control
+x;-;-;-;OUT17;P1-20B;-;FAN_LU2_DIR;-
+x;-;-;-;OUT17_GND;P1-20Z;-;nc;-
+-;-;-;-;-;-;-;-;-
+-;-;LOCAN  on back side;-;-;-;-;-;-
+-;LOCAN_00;LOCAN;-;-;LOCAN;LOCAN;-;-
+x;-;-;-;LOCAN_H;P3-12F;-;LOCAN_H;-
+x;-;-;-;LOCAN_L;P3-12D;-;LOCAN_L;-
+x;-;-;-;POS_A_H;P3-10F;-;POS_A_H;-
+x;-;-;-;POS_A_L;P3-10D;-;POS_A_L;-
+x;-;-;-;POS_B_H;P3-10B;-;POS_B_H;-
+x;-;-;-;POS_B_L;P3-10Z;-;POS_B_L;-
+-;-;-;-;-;-;-;-;-
+-;-;Supply output from SUP_IN;-;-;-;-;-;-
+-;FUSE_00;SUP00;F4;-;24V en massa;PLC supply (1,2A);-;-
+x;-;-;-;SUP00_24V;P3-28D;-;PLC supply;-
+x;-;-;-;SUP00_GND;P3-28F;-;PLC supply_GND;-
+-;FUSE_00;SUP01;F7;-;24V en massa;PLC IO supply;-;-
+x;-;-;-;SUP01_24V;P3-28B;-;IO supply;-
+x;-;-;-;SUP01_GND;P3-28Z;-;IO supply_GND;-
+-;FUSE_00;SUP02;F5;-;24V en massa;SHD_DD(A-D)_24V;-;-
+x;-;-;-;SUP02_24V;P3-30D;-;SHD_DD(A-D)_24V;-
+x;-;-;-;SUP02_GND;P3-30F;-;SHD_DD(A-D)_GND;-
+-;FUSE_00;SUP03;F8;-;24V en massa;SHD_DD(E-H)_24V;-;-
+x;-;-;-;SUP03_24V;P3-30B;-;SHD_DD(E-H)_24V;-
+x;-;-;-;SUP03_GND;P3-30Z;-;SHD_DD(E-H)_GND;-
+-;FUSE_00;SUP04;F6;-;24V en massa;spare;-;-
+x;-;-;-;SUP04_24V;P3-32D;-;nc;-
+x;-;-;-;SUP04_GND;P3-32F;-;nc;-
+-;-;-;-;-;-;-;-;-
+-;-;Supply input (P4);-;-;-;-;-;-
+-;-;SUP_IN;F3;-;24V en massa;-;-;-
+x;-;-;-;SUPIN_24V;-;-;-;-
+x;-;-;-;SUPIN_GND;-;-;-;-
+-;-;-;-;-;-;-;-;-
+-;-;-;-;-;-;-;-;-
